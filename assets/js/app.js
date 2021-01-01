@@ -10,7 +10,7 @@ window.addEventListener("load", function() {
   var DOCUMENT_TREE = {};
   var FILES = [];
   var FILE_BY_GROUPS = {};
-  var ADS_DISPLAYED = false;
+  var ADS_DISPLAYED = true;
   var CURRENT_SCREEN = 'HOME';
   var CURRENT_PLAYLIST = 'DEFAULT';
   var SEQUENCE = [];
